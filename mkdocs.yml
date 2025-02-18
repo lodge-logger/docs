@@ -44,10 +44,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - Home: index.md
+  - Home: home.md
   - Usage: usage.md
-  - About: about.md
 
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/prettyepiccat"  target="_blank" rel="noopener">PrettyEpicCat</a>
+  &copy; 2024 Documentation by <a href="https://github.com/prettyepiccat"  target="_blank" rel="noopener">PrettyEpicCat</a>
+  
