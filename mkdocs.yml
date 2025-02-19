@@ -46,6 +46,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Usage: usage.md
+  - Video: video.md
 
 copyright: |
   &copy; 2024 Documentation by <a href="https://github.com/prettyepiccat"  target="_blank" rel="noopener">PrettyEpicCat</a>
